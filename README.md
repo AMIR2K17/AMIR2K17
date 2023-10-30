@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AMIR2K17
+- 👀 I’m interested in Python, GO, C++ and ML
+- 🌱 I’m currently learning ML with Python
+- 💞️ I’m looking to collaborate on N/A
+- 📫 How to reach me N/A
